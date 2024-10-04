@@ -14,10 +14,16 @@ body {
 }
 
 .custom-login-btn:hover {
-  background-color: #E05A02; /* Fundo mais escuro ao passar o mouse */
-  border-color: #C05402; /* Borda ainda mais escura no hover */
+  background-color: #e02b02; /* Fundo mais escuro ao passar o mouse */
+  border-color: #e02b02; /* Borda ainda mais escura no hover */
 }
 
 .custom-rounded{
   border-radius: 5px;
+}
+
+.message{
+  color: gray;
+  margin-left: 10px;
+  margin-top: 10px;
 }
